@@ -1,0 +1,21 @@
+# Original Olist datasets included in this repository
+
+# Cleaned duplicate datasets
+results/cleaned_data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
