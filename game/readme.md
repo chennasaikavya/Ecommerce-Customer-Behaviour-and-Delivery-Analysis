@@ -28,3 +28,10 @@ A browser-based educational game built using HTML, CSS, JavaScript, and Canvas.
 ## Note
 
 This is a standalone browser game. It currently uses simulated retail data and does not directly load the Olist CSV files.
+## 🎮 Play the Game Online
+
+**Alien Invasion: Data Detective Run**
+
+Play our interactive educational game directly in your browser:
+
+👉 [Click Here to Play the Game](https://chennasaikavya.github.io/Ecommerce-Customer-Behaviour-and-Delivery-Analysis/game/)
